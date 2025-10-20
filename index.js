@@ -748,4 +748,4 @@ async function weeklyReportTick() {
   if (ch) ch.send({ embeds: [e] });
 }
 
-client.login(cfg.token);
+client.login(process.env.TOKEN);

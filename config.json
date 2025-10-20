@@ -1,0 +1,39 @@
+{
+  "token": "MTQyOTQ4MDQ4NzgwNTc4NDE5NQ.G1LVF4.lGNmy8YZYsGq1R2TMjmGn9xUxf-oyJUTEE-4nw",
+  "clientId": "1429480487805784195",
+  "guildId": "868254307525472256",
+
+  "lang": "en",
+
+  "panelChannelId": "1428137426995384391",
+  "logChannelId": "1429943486773329920",
+  "ticketsCategoryId": "1428137304752394376",
+  "archiveCategoryId": "1429944320651431957",
+  "weeklyReportChannelId": "1429944320651431957",
+
+  "supportTeamRoleId": "915670813145985055",
+  "typeRoleIds": {
+    "support": "1428137179305218121",
+    "billing": "1428137179305218121",
+    "technical": "1428137179305218121",
+    "partnership": "1428137179305218121",
+    "report": "1428137179305218121"
+  },
+
+  "claimRoleId": "1428137179305218121",
+  "closeRoleId": "1428137179305218121",
+  "reopenRoleId": "1428137179305218121",
+  "deleteRoleId": "1428137133440368773",
+  "bypassLimitRoleId": "1428137179305218121",
+
+  "perTypeLimit": 1,
+  "globalOpenLimit": 2,
+  "dailyOpenLimit": 3,
+  "openCooldownSec": 120,
+  "reopenLimit": 1,
+  "idleAutoCloseHours": 48,
+  "dmOnClose": true,
+  
+  
+  "weeklyReport": { "day": 0, "hour": 20 }
+}
